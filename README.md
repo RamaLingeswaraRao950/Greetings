@@ -1,6 +1,6 @@
 # 👋 Greetings
 
-A fun, interactive typing animation project that dynamically displays a greeting message letter-by-letter. Users can control the typing speed with an input slider.
+An interactive typing animation project that dynamically displays a greeting message letter-by-letter. Users can control the typing speed with an input slider.
 
 ## 🌄 Description
 
@@ -16,7 +16,7 @@ A fun, interactive typing animation project that dynamically displays a greeting
 
 ## 🛠️ Tech Stack
 
-🧱 **HTML5** – Page structure  
 ⚙️ **JavaScript(ES6+)** – Typing effect and interactivity  
 🎨 **CSS3**  – Styling and layout  
+🧱 **HTML5** – Page structure  
 🔤 **Google Fonts** – Roboto font used for smooth typography  
